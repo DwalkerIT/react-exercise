@@ -14,7 +14,7 @@ yarn start
 ## make a HelloWord component...
 
 h2 of "Hello World"
-
+<h2>Hello World<h2>
 ## make a greet component that takes the user and displays their name
 
 "Hello" name
